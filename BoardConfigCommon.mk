@@ -60,7 +60,6 @@ BOARD_USES_ALSA_AUDIO := true
 TARGET_NO_BOOTLOADER := true
 
 # Display
-TARGET_DISABLED_UBWC := true
 ifeq ($(TARGET_HAS_UDFPS),true)
 TARGET_USES_FOD_ZPOS := true
 endif
