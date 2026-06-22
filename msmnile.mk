@@ -265,8 +265,6 @@ PRODUCT_PACKAGES += \
     CarrierConfigOverlayCommon \
     FrameworkResOverlayCommon \
     LineageDialerOverlayCommon \
-    LineageSDKOverlayCommon \
-    LineageSettingsOverlayCommon \
     SettingsOverlayCommon \
     SettingsProviderOverlayCommon \
     SystemUIOverlayCommon \
