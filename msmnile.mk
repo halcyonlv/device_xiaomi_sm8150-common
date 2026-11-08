@@ -187,7 +187,8 @@ endif
 # FM
 ifeq ($(TARGET_HAS_FM),true)
 PRODUCT_PACKAGES += \
-    FM2
+    FMTuner \
+    libqcomfmjni
 endif
 
 # Health

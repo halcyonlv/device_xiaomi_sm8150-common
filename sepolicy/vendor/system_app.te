@@ -1,0 +1,3 @@
+# FM
+hal_client_domain(system_app, vendor_hal_fm)
+get_prop(system_app, vendor_bluetooth_prop)
