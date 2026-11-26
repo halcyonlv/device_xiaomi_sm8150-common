@@ -5,5 +5,8 @@ persist.sys.activity_anim_perf_override=true
 ro.config.media_vol_steps=25
 ro.config.vc_call_vol_steps=7
 
+# Blur
+ro.surface_flinger.blur_scale=0.015
+
 # eBPF
 ro.bpf.kver_override=5.10.239
